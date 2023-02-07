@@ -1,0 +1,36 @@
+.main{
+  width: 1200px;
+  height: 800px;
+}
+
+.main-contents1{
+  width: 1200px;
+  height: 200px;
+  background-image: url(img1/box1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.main-contents2{
+  width: 1200px;
+  height: 200px;
+  background-image: url(img1/box2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.main-contents3{
+  width: 1200px;
+  height: 200px;
+  background-image: url(img1/box3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.main-contents4{
+  width: 1200px;
+  height: 200px;
+  background-image: url(img1/box4.jpg);
+  background-size: cover;
+  background-position: center;
+}
